@@ -1,7 +1,8 @@
 <?php
 require_once("define.php");
+echo "TEST FROM KYLIE new";
 echo "TEST FROM KYLIE";
-echo "TEST FROM KYLIE";
+echo "TEST FROM KYLIE from invitation";
 echo "TEST FROM KYLIE from invitation";
 
 
