@@ -2,6 +2,9 @@
 require_once("define.php");
 echo "TEST FROM KYLIE";
 echo "TEST FROM KYLIE";
+echo "TEST FROM KYLIE from invitation";
+
+
 $constantVariable = constant;
 switch ($expr) {
     case 0:
