@@ -1,6 +1,10 @@
 <?
 
 
+
+echo "paulites";
+echo "paulites";
+
        for($i = 0; 
             $i < 10; $i++) {
     // for body
